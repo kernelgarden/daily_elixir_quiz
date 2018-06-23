@@ -23,3 +23,7 @@ erl_crash.dump
 daily_elixir_study-*.tar
 
 .idea/
+
+.vscode/
+
+.elixir_ls/
