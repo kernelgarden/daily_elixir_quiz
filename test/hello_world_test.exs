@@ -3,7 +3,7 @@ defmodule HelloWorldTest do
   @moduledoc false
 
   test "hello world test" do
-    assert HelloWorld.print() == "Hello Wolrd!!!"
+    assert HelloWorld.print() == "Hello World!!!"
   end
 
 end
